@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Repair Café Jacou & Montpellier
+# Repair Café Jacou & Clapiers
 
 ## Cassé ? Ne jetez plus ! Réparons ensemble !
 
