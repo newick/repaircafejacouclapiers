@@ -1,9 +1,11 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+## À Jacou
+Perrine au 06 85 47 48 82 / [associationvertueux@gmail.com](mailto:associationvertueux@gmail.com)
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+## À Clapiers
+Élisabeth au 07 81 32 35 42 / [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+` 
