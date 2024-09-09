@@ -12,7 +12,11 @@ Pour :
 - **Animer** des petites sessions / ateliers / jeux pour le public pendant le temps des réparations, faire des gâteaux, des biscuits pour les ateliers,
 - **S'occuper de la communication**, de l'affichage, des l'organisation logistique des différents ateliers.
 
-Pour nous rejoindre, [contactez nous](./contact) 
+<span class="mise-en-avant">Nous recherchons des réparatrices et réparateurs confirmé·es et débutant·es.</span>
+
+Des réparateur·ices expérimenté·es des Repair Cafés Montpellier et Montferrier nous accompagneront pendant les premiers mois pour nous former.
+
+Pour nous rejoindre, [contactez nous](./contact).
 
 ## S'inscrire pour réparer
 
@@ -28,4 +32,4 @@ Pour rappel, voilà les dates :
 - 25 mai 2025 à Jacou - Parc Bocaud (Festiv'alter) de 11h à 17h
 - 7 juin 2025 à Clapiers - Salle Jean-Louis Barrault 
 
-Pour s'inscrire, merci de remplir [ce formulaire](https://framadate.org/g5zPMWw1DoGyBtWE) 
+Pour s'inscrire, merci de remplir [ce formulaire](https://framadate.org/g5zPMWw1DoGyBtWE). 
