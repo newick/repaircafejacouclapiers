@@ -12,4 +12,4 @@ Pour :
 - **Animer** des petites sessions / ateliers / jeux pour le public pendant le temps des réparations, faire des gâteaux, des biscuits pour les ateliers,
 - **S'occuper de la communication**, de l'affichage, des l'organisation logistique des différents ateliers.
 
-Pour nous rejoindre, [contactez nous](/contact) 
+Pour nous rejoindre, [contactez nous](./contact) 
