@@ -12,7 +12,7 @@ Pour :
 - **Animer** des petites sessions / ateliers / jeux pour le public pendant le temps des réparations, faire des gâteaux, des biscuits pour les ateliers,
 - **S'occuper de la communication**, de l'affichage, des l'organisation logistique des différents ateliers.
 
-<span class="mise-en-avant">Nous recherchons des réparatrices et réparateurs confirmé·es et débutant·es.</span>
+<p class="mise-en-avant">Nous recherchons des réparatrices et réparateurs confirmé·es et débutant·es.</p>
 
 Des réparateur·ices expérimenté·es des Repair Cafés Montpellier et Montferrier nous accompagneront pendant les premiers mois pour nous former.
 
