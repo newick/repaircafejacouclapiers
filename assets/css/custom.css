@@ -17,7 +17,10 @@ display: none;
 
 .mise-en-avant {
 display: block;
+margin-block: 2rem;
 padding: .5rem;
+text-align: center;
+  font-size: 1.5rem;
 color: white;
 font-weight: bold;
 background-color: var(--couleur-primaire);
