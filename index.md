@@ -3,9 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Repair Café Jacou & Clapiers
-
-![]({% link images/Logo_Repair-Cafe_Jacou-Clapiers(1).png %})
+![Repair Café Jacou & Clapiers]({% link images/Logo_Repair-Cafe_Jacou-Clapiers(1).png %})
 
 ## Cassé ? Ne jetez plus ! Réparons ensemble !
 
