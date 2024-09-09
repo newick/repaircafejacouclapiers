@@ -1,3 +1,11 @@
 :root {
     --couleur-primaire : #302F7D;
+    --couleur-secondaire: #EA684A;
+}
+
+h1, h3 {
+color: var(--couleur-secondaire);
+}
+h2 {
+color: var(--couleur-primaire);
 }
