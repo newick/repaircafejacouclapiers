@@ -1,6 +1,6 @@
 ---
 title: "Nous rejoindre"
-order: 3
+order: 1
 in_menu: true
 ---
 ## On recherche des bénévoles
