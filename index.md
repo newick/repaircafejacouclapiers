@@ -28,3 +28,5 @@ Chaque **1er samedi du mois de 14h à 18h** à Jacou et Clapiers, en alternance.
 - 5 avril 2025 à Jacou - La Fabrique
 - 25 mai 2025 à Jacou - Parc Bocaud (Festiv'alter) de 11h à 17h
 - 7 juin 2025 à Clapiers - Salle Jean-Louis Barrault 
+
+<p class="mise-en-avant"><a href="./nous rejoindre.html">Nous recherchons des réparatrices et réparateurs confirmé·es et débutant·es.</a></p> 
