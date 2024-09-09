@@ -5,11 +5,11 @@ in_menu: true
 ---
 ![Repair Café Jacou & Clapiers]({% link images/Logo_Repair-Cafe_Jacou-Clapiers(1).png %})
 
-## Cassé ? Ne jetez plus ! Réparons ensemble !
+## Cassé ? Ne jetez plus ! 
 
 Chaque **1er samedi du mois de 14h à 18h** à Jacou et Clapiers, en alternance.
 
-### On répare
+### Réparons ensemble !
 
 - Électroménager
 - Jouets
