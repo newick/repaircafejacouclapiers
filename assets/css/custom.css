@@ -25,3 +25,7 @@ color: white;
 font-weight: bold;
 background-color: var(--couleur-primaire);
 }
+
+.mise-en-avant a {
+color: inherit
+}
