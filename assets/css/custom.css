@@ -11,10 +11,6 @@ h2 {
 color: var(--couleur-primaire);
 }
 
-footer {
-display: none;
-}
-
 .mise-en-avant {
 display: block;
 margin-block: 2rem;
